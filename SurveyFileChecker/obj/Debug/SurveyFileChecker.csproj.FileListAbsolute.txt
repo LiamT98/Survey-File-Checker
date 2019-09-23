@@ -1,0 +1,113 @@
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.config
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.pdb
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.dll
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.xml
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Form1.resources
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Properties.Resources.resources
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.GenerateResource.cache
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.licenses
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CopyComplete
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.pdb
+C:\Users\Developer\Source\Workspaces\Pear Technology2\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csprojAssemblyReference.cache
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.config
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.pdb
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.dll
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.dll
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.xml
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.xml
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.xml
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.xml
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.xml
+G:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.xml
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csprojAssemblyReference.cache
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Form1.resources
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Properties.Resources.resources
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.GenerateResource.cache
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.licenses
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CoreCompileInputs.cache
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CopyComplete
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.pdb
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.config
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.pdb
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.dll
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.xml
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.xml
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.xml
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.xml
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.xml
+E:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.xml
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Form1.resources
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Properties.Resources.resources
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.GenerateResource.cache
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.licenses
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CoreCompileInputs.cache
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CopyComplete
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.pdb
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csprojAssemblyReference.cache
+E:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.DetailedLogForm.resources
+G:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.DetailedLogForm.resources
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.config
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.pdb
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.dll
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.dll
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.xml
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Shared.v17.2.xml
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.Misc.v17.2.xml
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.UltraWinGrid.v17.2.xml
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\Infragistics4.Win.v17.2.xml
+D:\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.xml
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csprojAssemblyReference.cache
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.DetailedLogForm.resources
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Form1.resources
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Properties.Resources.resources
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.GenerateResource.cache
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.licenses
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CoreCompileInputs.cache
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CopyComplete
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe
+D:\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.pdb
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.config
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe.manifest
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.application
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.exe
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\SurveyFileChecker.pdb
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.dll
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.dll
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\CsvHelper.xml
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\System.ValueTuple.xml
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.DetailedLogForm.resources
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Form1.resources
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.Properties.Resources.resources
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.GenerateResource.cache
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.licenses
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CoreCompileInputs.cache
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe.manifest
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.application
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.csproj.CopyComplete
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.exe
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\obj\Debug\SurveyFileChecker.pdb
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\Resources\BS5837 Survey V111.txt
+C:\Users\ltayl\OneDrive\Documents\Visual Studio 2019\Projects\SurveyFileChecker\SurveyFileChecker\bin\Debug\Resources\General Survey V111.txt
