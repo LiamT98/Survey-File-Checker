@@ -5,5 +5,5 @@ A small WinForms application to read and analyse two standards of tree survey CS
 #####################
 
 Current survery standards supported:
- - BS8357
+ - BS5837
  - General Survey 
